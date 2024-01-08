@@ -29,7 +29,7 @@
 </p>
 <br>
 <br>
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=0xYazuko)
+<img src="https://root-me-diff.vercel.app/rm-gh?nickname=0xYazuko">
 <br>
 <br>
 <br>
