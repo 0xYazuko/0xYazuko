@@ -29,7 +29,6 @@
 </p>
 <br>
 <br>
-<img src="https://root-me-diff.vercel.app/rm-gh?nickname=0xYazuko">
 <br>
 <br>
 <br>
